@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Flash over the air (FOTA)](https://www.youtube.com/watch?v=pQen2TgFkXw)
 
-- 🌱 I’m currently learning **Embedded linux, Machine learning and Embedded systems**
+- 🌱 I’m currently learning **at Information Technology Institute ITI Embedded linux, Machine learning and Embedded systems**
 
 - 👯 I’m looking to collaborate on [YOCTO](https://www.youtube.com/watch?v=LtfybKG5Y8A)
 
