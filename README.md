@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Alaa Elnagar</h1>
 <h3 align="center">Mechatronics Eng ,Interested in software engineering and PCB designing</h3>
 
-- 🔭 I’m currently working on [Flash over the air (FOTA)](https://www.youtube.com/watch?v=pQen2TgFkXw)
+- 🔭 I’m currently working on [ROS](https://classroom.udacity.com/nanodegrees/nd209-ent)
 
 - 🌱 I’m currently learning **Studying at Information Technology Institute ITI Embedded linux, and Embedded systems**
 
