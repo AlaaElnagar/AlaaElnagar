@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [ROS](https://classroom.udacity.com/nanodegrees/nd209-ent)
 
-- 🌱 I’m currently learning **Higher Technical Institution ITI "Self Driving Car Track"**
+- 🌱 I’m currently learning **information technology Institution ITI "Self Driving Car Track"**
 
 - 👯 I’m looking to collaborate on [YOCTO](https://www.youtube.com/watch?v=LtfybKG5Y8A)
 
