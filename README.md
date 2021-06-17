@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on [YOCTO](https://www.youtube.com/watch?v=LtfybKG5Y8A)
 
-- 💬 Ask me about **Linux,AVR,ARM**
+- 💬 Ask me about **Linux,AVR,ARM,ROS2**
 
 - 📫 How to reach me ** +20 101 979 3647 or alaaelngar560@yahoo.com  **
 
