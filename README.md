@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Alaa Elnagar</h1>
-<h3 align="center">Mechatronics Eng ,Interested in software engineering and Robotics</h3>
+<h3 align="center">Mechatronics Eng ,Interested in Software Engineering and Robotics</h3>
 
-- 🔭 I’m currently working as [Embedded SW Instructor ] 
+- 🔭 I’m currently working as [Freelancer Embedded SW Developer and Embedded Instructor ] 
 
 - 💬 Ask me about **Linux,AVR,ARM,ROS1,ROS2**
 
