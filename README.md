@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alaa Elnagar</h1>
-<h3 align="center">Mechatronics Eng ,Interested in software engineering and PCB designing</h3>
+<h3 align="center">Mechatronics Eng ,Interested in software engineering and Robotics</h3>
 
 - 🔭 I’m currently working as [Embedded SW Instructor ] 
 
