@@ -1,13 +1,9 @@
 <h1 align="center">Hi 👋, I'm Alaa Elnagar</h1>
 <h3 align="center">Mechatronics Eng ,Interested in software engineering and PCB designing</h3>
 
-- 🔭 I’m currently working on [ROS](https://classroom.udacity.com/nanodegrees/nd209-ent)
+- 🔭 I’m currently working as [Embedded SW Instructor ] 
 
-- 🌱 I’m currently learning at **information technology Institution ITI "Self Driving Car Track"**
-
-- 👯 I’m looking to collaborate on [YOCTO](https://www.youtube.com/watch?v=LtfybKG5Y8A)
-
-- 💬 Ask me about **Linux,AVR,ARM,ROS2**
+- 💬 Ask me about **Linux,AVR,ARM,ROS1,ROS2**
 
 - 📫 How to reach me ** +20 101 979 3647 or alaaelngar560@yahoo.com  **
 
