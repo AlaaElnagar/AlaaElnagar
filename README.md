@@ -2,7 +2,7 @@
 <h3 align="center">Mechatronics Eng ,Interested in Software Engineering and Robotics</h3>
 <h3 align="center">And here is important note about me </h3>
 <h3 align="center">I Never give up ! </h3>
-<h3 🔥🔥🔥💀🔥🔥🔥 </h3>
+<h3 align="center">🔥🔥🔥💀🔥🔥🔥 </h3>
 - 🔭 I’m currently working as [Freelancer Embedded SW Developer and Embedded Instructor] 
 
 - 💬 Ask me about **Linux,AVR,ARM,ROS1,ROS2**
