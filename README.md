@@ -3,9 +3,9 @@
 <h3 align="center">And here is important note about me </h3>
 <h3 align="center">I Never give up ! </h3>
 <h3 align="center">🔥🔥🔥💀🔥🔥🔥 </h3>
-- 🔭 I’m currently working as [Freelancer Embedded SW Developer and Embedded Instructor] 
+- 🔭 I’m currently working as [Freelancer Embedded SW Developer and Embedded Instructor electric vehicles chargers developer] 
 
-- 💬 Ask me about **Linux,AVR,ARM,ROS1,ROS2**
+- 💬 Ask me about **Linux,AVR,ARM,ROS1,ROS2,CAN,Vector tools**
 
 - 📫 How to reach me ** +20 101 979 3647 or alaaelngar560@yahoo.com  **
 
