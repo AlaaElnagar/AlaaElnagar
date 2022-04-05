@@ -3,8 +3,8 @@
 <h3 align="center">And here is important note about me </h3>
 <h3 align="center">I Never give up ! </h3>
 <h3 align="center">🔥🔥🔥💀🔥🔥🔥 </h3>
-- 🔭 I’m currently working as :
-- [Freelancer Embedded SW Developer, Embedded Instructor and electric vehicles chargers developer at coretech inovations] 
+- 🔭 I’m currently working as
+<h4 align="center">[Freelancer Embedded SW Developer, Embedded Instructor and electric vehicles chargers developer at coretech inovations] </h4>
 
 - 💬 Ask me about **Linux,AVR,ARM,ROS1,ROS2,CAN,Vector tools**
 
