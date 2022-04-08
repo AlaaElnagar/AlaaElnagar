@@ -4,6 +4,8 @@
 <h3 align="center">I Never give up ! </h3>
 <h3 align="center">🔥🔥🔥![image](https://user-images.githubusercontent.com/35043356/162490248-b2e0ad26-4e4e-4859-8cf4-4c803d1045e9.png)
 🔥🔥🔥 </h3>
+![image](https://user-images.githubusercontent.com/35043356/162490375-1425faa1-4056-4263-bc68-44cbceb8110f.png)
+
 - 🔭 I’m currently working as
 <h4 align="center">[Freelancer Embedded SW Developer, Embedded Instructor and electric vehicles chargers developer at coretech inovations] </h4>
 
