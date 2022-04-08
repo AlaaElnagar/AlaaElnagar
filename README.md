@@ -2,7 +2,8 @@
 <h3 align="center">Mechatronics Eng ,Interested in Software Engineering and Robotics</h3>
 <h3 align="center">And here is important note about me </h3>
 <h3 align="center">I Never give up ! </h3>
-<h3 align="center">🔥🔥🔥🚀🔥🔥🔥 </h3>
+<h3 align="center">🔥🔥🔥![image](https://user-images.githubusercontent.com/35043356/162490248-b2e0ad26-4e4e-4859-8cf4-4c803d1045e9.png)
+🔥🔥🔥 </h3>
 - 🔭 I’m currently working as
 <h4 align="center">[Freelancer Embedded SW Developer, Embedded Instructor and electric vehicles chargers developer at coretech inovations] </h4>
 
