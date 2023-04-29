@@ -1,4 +1,4 @@
-![mypic](https://gencraft.com/api_resources/images/explore/28.png){:height="100px" width="100px"}.
+![](https://gencraft.com/api_resources/images/explore/28.png){height=50}
 
 <h1 align="center">Hi 👋, I'm Alaa Elnagar</h1>
 <h3 align="center">Mechatronics Eng ,Interested in Software Engineering and Robotics</h3>
