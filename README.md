@@ -1,5 +1,5 @@
-![](https://gencraft.com/api_resources/images/explore/28.png | height=50)
-![](https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png | width=100)
+<img src="https://gencraft.com/api_resources/images/explore/28.png" alt="alt text" height="50">
+
 
 
 
