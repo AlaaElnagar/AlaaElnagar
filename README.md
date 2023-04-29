@@ -1,5 +1,6 @@
-<img src="https://gencraft.com/api_resources/images/explore/28.png" alt="alt text" width="40" height="250">
-
+<p align="center">
+ <img src="https://gencraft.com/api_resources/images/explore/28.png" alt="alt text" width="400" height="250">
+</p>
 
 
 
