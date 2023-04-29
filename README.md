@@ -1,4 +1,4 @@
-![](https://gencraft.com/api_resources/images/explore/28.png)
+<img src="[./img/im2.jpg](https://gencraft.com/api_resources/images/explore/28.png)"  width="40%" height="40%">
 
 <h1 align="center">Hi 👋, I'm Alaa Elnagar</h1>
 <h3 align="center">Mechatronics Eng ,Interested in Software Engineering and Robotics</h3>
