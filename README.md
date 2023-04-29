@@ -1,4 +1,4 @@
-<img src="https://gencraft.com/api_resources/images/explore/28.png" alt="alt text" width="500" height="500">
+<img src="https://gencraft.com/api_resources/images/explore/28.png" alt="alt text" width="750" height="250">
 
 
 
