@@ -19,20 +19,24 @@
  <img src="https://komarev.com/ghpvc/?username=AlaaElnagar&style=flat-square&color=blue" alt=""/>
 </div>
 
+
 <h3 align="center">Senior Embedded Engineer,Interested in Software Development and Robotics</h3>
 <h3 align="center">And here is small note about me </h3>
 <h3 align="center">I Never give up ! </h3>
 <h3 align="center">🔥🔥🔥🚀🚀🚀🔥🔥🔥 </h3>
 
+
+<details>
+<summary>About me...</summary>
 - 🔭 I’m currently working as **Senior Adaptive Autosar Engineer at GlobalLogic Poland,Free Lancer, Embedded Instructor and electric vehicles chargers developer**
 
 - 💬 Ask me about **Linux,AVR,ARM,ROS1,ROS2,CAN,UDS,Bootloader,Adaptive autosar**
 
 - 📫 Mobile **+20 101 979 3647**
 
+</details>
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlaaElnagar&show_icons=true&theme=radical)
-
-
 
 
 
