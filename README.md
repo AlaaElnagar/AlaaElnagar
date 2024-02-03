@@ -24,23 +24,3 @@
 <h3 align="center">And here is small note about me </h3>
 <h3 align="center">I Never give up ! </h3>
 <h3 align="center">🔥🔥🔥🚀🚀🚀🔥🔥🔥 </h3>
-
-
-<details>
-<summary>About me...</summary>
-- 🔭 I’m currently working as **Senior Adaptive Autosar Engineer at GlobalLogic Poland,Free Lancer, Embedded Instructor and electric vehicles chargers developer**
-
-- 💬 Ask me about **Linux,AVR,ARM,ROS1,ROS2,CAN,UDS,Bootloader,Adaptive autosar**
-
-- 📫 Mobile **+20 101 979 3647**
-
-</details>
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlaaElnagar&show_icons=true&theme=radical)
-
-
-
-![snake gif](https://github.com/AlaaElnagar/AlaaElnagar/blob/output/github-contribution-grid-snake.gif)
-
-
-
